@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    
+    text-align: center;
+    background-image:url(https://cdn.pixabay.com/photo/2022/11/24/02/28/clouds-7613361_960_720.png) ;
+}
+form{
+    background-color: cornsilk;
+    text-align: center;
+    padding: 20px;
+    
+    background-image: linear-gradient(0deg, #d9afd91a 0%, #97dae139 100%);
+     ;
+     width:fit-content;
+     display:inline-block ;
+     margin-top:60px;
+     border-radius:15px ;
+     box-shadow:4px 4px 8px 8px white ;
+
+}
+label{
+ display:inline-block;
+ text-align: left;
+ width: 100px;
+ margin-bottom:20px ;
+ font-size: 20px ;
+ text-shadow:2px 2px 2px rgb(195, 54, 54) ;
+ color: white;
+
+}
+
+input{
+    display: inline-block;
+    width:170px ;
+    height:30px ;
+    border-radius:5px ;
+    text-align: center;
+    border-color: antiquewhite;
+    
+    
+    
+    
+}
+#özel{
+  margin-right:180px ;
+  
+}
+.div1 input{
+    box-shadow:2px 2px 2px white ;
+}
+#cursor input:hover{
+    cursor: pointer;
+}
+
+
